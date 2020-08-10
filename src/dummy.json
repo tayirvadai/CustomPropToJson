@@ -1,0 +1,35 @@
+{
+	"otherdata": {
+		"acctType": [
+			"checking",
+			"savings"
+		]
+	},
+	"bkey": "bk1",
+	"data": {
+		"payType": "card",
+		"cinfo": {
+			"coAppAuthVal": 102,
+			"coAppInvestmentAmt": 233.43,
+			"coAppOpted": true,
+			"coAppAuthType": "acctNum",
+			"applts": [
+				{
+					"appltType": "k1"
+				},
+				{
+					"appltType": "k2"
+				}
+			]
+		},
+		"pinfo": [
+			{
+				"srvc": {
+					"errorDesc": "desc",
+					"errorCode": "ec"
+				}
+			}
+		]
+	},
+	"pid": "p1"
+}
